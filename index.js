@@ -1,4 +1,4 @@
 
-const message = 'Hello from an equally valid update!'
+const message = 'Hello World. I\'m an updated message!'
 console.log(message)
 // I output a message to the console :)
